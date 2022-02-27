@@ -22,7 +22,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,20 +32,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Albanian
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Greek
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
+        link:
+
+      - item: 
+        link:
+
+      - item: 
         link:
 
 career-profile:
@@ -58,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 
+      university: University of Ionio
+      time: 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -70,7 +70,7 @@ education:
           - Bullet point
           - Bullet point
     - degree: BSc in Applied Mathematics
-      university: Bristol University
+      university:  University
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -184,10 +184,10 @@ skills:
         level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 0%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 0%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
